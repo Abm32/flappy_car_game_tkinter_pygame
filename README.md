@@ -17,6 +17,14 @@ This is a gaming platform where the user will be able to play multiple game. Her
 Pygame -
 Tkinter -
 ## How to configure
-Instructions for setting up project
+Step 1 - Clone the repo into your project
+
+Step 2 - setup virtual environment. (If you don't know how to do that refer this : https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
+
+Step 3 - Set your program path to the env you created
+
+Step 4 - Install the libraries used in the project
+
+
 ## How to Run
-Instructions for running
+After the configuration, make changes according to your will and run the project. If it's not running, then go for debugging.
