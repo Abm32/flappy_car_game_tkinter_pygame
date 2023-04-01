@@ -11,7 +11,7 @@ This is a gaming platform where the user will be able to play multiple game. Her
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
+1. The program opens with a GUI prompting to enter a username and choose a game we want to play. After doing so the selected game will open, else it will not.
 2. Embed video of project demo
 ## Libraries used
 Pygame -
@@ -27,4 +27,4 @@ Step 4 - Install the libraries used in the project
 
 
 ## How to Run
-After the configuration, make changes according to your will and run the project. If it's not running, then go for debugging.
+After the configuration, make changes according to your will and run the gui.py file. If it's not running, then go for debugging.
