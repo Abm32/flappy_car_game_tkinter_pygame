@@ -9,13 +9,14 @@ This is a gaming platform where the user will be able to play multiple game. Her
 1. Abhimanyu R B [https://github.com/Abm32]
 2. Johan George [https://github.com/ft-johan]
 ## Link to product walkthrough
-[link to video]
+[link to video - (https://youtu.be/Yvc5bzYQTR4) ]
 ## How it Works ?
 1. The program opens with a GUI prompting to enter a username and choose a game we want to play. After doing so the selected game will open, else it will not.
-2. Embed video of project demo
+2. https://youtu.be/Yvc5bzYQTR4
 ## Libraries used
-Pygame -
-Tkinter -
+Pygame
+Random
+Tkinter
 ## How to configure
 Step 1 - Clone the repo into your project
 
