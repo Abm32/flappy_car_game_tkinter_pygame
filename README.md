@@ -3,7 +3,7 @@
 
 
 
-# Project Name
+# Flappy-Car
 This is a gaming platform where the user will be able to play multiple game. Here GUI will be a main screen window which shows the available games available to play. The user can choose the one to his liking and play it.
 ## Team members
 1. Abhimanyu R B [https://github.com/Abm32]
